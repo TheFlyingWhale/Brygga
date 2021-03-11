@@ -3,10 +3,10 @@ The goal of this project is to get a better understanding of how React works and
 
 # Prerequisites:
 * HTML
-⋅⋅* CSS
-⋅⋅* JavaScript
-⋅⋅* React
-⋅⋅* Jest, Enzyme, and Selenium
-⋅⋅* Git and GitHub
-⋅⋅* Command line and file navigation
-⋅⋅* Wireframing
+* CSS
+* JavaScript
+* React
+* Jest, Enzyme, and Selenium
+* Git and GitHub
+* Command line and file navigation
+* Wireframing
