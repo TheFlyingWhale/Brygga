@@ -1,5 +1,7 @@
 <div style="text-align:center"><img src="https://github.com/TheFlyingWhale/Brygga/blob/main/src/common/images/logo512.png" /></div>
 
+<div style="text-align:center">Hello</div>
+
 ![alt text](https://github.com/TheFlyingWhale/Brygga/blob/main/src/common/images/logo512.png "Logo")
 
 # Goal
