@@ -1,4 +1,6 @@
-![alt text](https://github.com/TheFlyingWhale/Brygga/blob/main/src/common/images/logo512.png "Logo Title Text 1")
+<div style="text-align:center"><img src="https://github.com/TheFlyingWhale/Brygga/blob/main/src/common/images/logo512.png" /></div>
+
+![alt text](https://github.com/TheFlyingWhale/Brygga/blob/main/src/common/images/logo512.png "Logo")
 
 # Goal
 The goal of this project is to get a better understanding of how React works and to build the experience needed to advance over to learning how to implement Redux
