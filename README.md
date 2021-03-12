@@ -1,5 +1,6 @@
 # Goal
-The goal of this project is to get a better understanding of how React works and to build the experience needed to advance over to learning how to implement Redux
+This projects acts like an final exam to the Front-developer course on codecademy.com
+Throughout this project I'll apply my newly acquired knowledge. Both to gain more experience and prove to myself that I finally can call myself a developer.
 
 # Project Requirements:
 * Build the applicaiton using React
@@ -27,6 +28,7 @@ The goal of this project is to get a better understanding of how React works and
 * CSS
 * JavaScript
 * React
+* Redux
 * Jest, Enzyme, and Selenium
 * Git and GitHub
 * Command line and file navigation
