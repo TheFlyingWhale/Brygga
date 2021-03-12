@@ -1,0 +1,40 @@
+@import '../../fonts/Heebo.scss';
+@import '../../fonts/Calistoga.scss';
+/*
+    Text.css takes care of style-setting all text-elements
+    Font-size is calulated with a base size of 1rem = 16
+    To calculate new sizes take 0,0625 * px
+*/
+
+h1, h2, h3, h4, h5, h6, a, p {
+    -webkit-font-smoothing: antialised !important;
+}
+
+:root {
+    font-size: 16px;
+}
+
+h1 {
+    font: {
+        family: "Calistoga";
+        weight: 400;
+        size: 4.375rem;
+    }
+    letter-spacing: 0.25rem;
+}
+
+h2 {
+    font: {
+        family: "Calistoga";
+        weight: 400;
+        size: 3.125rem;
+    }
+}
+
+p {
+    font: {
+        family: "Heebo";
+        weight: 400;
+        size: 1.5rem;
+    }
+}
